@@ -1,2 +1,12 @@
 - Getting Started
-  - [🔒 Prerequisites](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%92-Prerequisites)
+  - 🔒 [Prerequisites](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%92-Prerequisites)
+  - ▶ [Run the Bot](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%96%B6-Run-the-Bot)
+  - 🌍 [Supported Games and Languages](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8C%8D-Supported-Games-and-Languages)
+  - 💾 [Import a Save](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BE-Import-a-Save)
+
+- Bot Modes
+  - 🔧 [Manual](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%A7-Manual)
+  - 🔄 [Spin](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%84-Spin)
+  - 💼 [Starters](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BC-Starters)
+  - 🎣 [Fishing](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%A3-Fishing)
+  - 🚲 [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop)
