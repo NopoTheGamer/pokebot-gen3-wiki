@@ -1,0 +1,2 @@
+- Getting Started
+  - [🔒 Prerequisites](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%92-Prerequisites)
