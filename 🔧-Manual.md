@@ -1,5 +1,7 @@
-Manual mode simply disables all bot inputs, allowing you to track encounters and stats on your own shiny hunts as you play the game normally.
+# Description
+Manual mode simply disables all automatic bot inputs, allowing you to play the game normally while continuing to track encounters and stats.
 
+# Game Support
 |          | 🟥 Ruby | 🔷 Sapphire | 🟢 Emerald | 🔥 FireRed | 🌿 LeafGreen |
 |:---------|:----:|:--------:|:-------:|:-------:|:---------:|
 | English  |  ✅   |    ✅     |    ✅    |    ✅    |     ✅     |
