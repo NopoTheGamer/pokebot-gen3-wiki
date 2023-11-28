@@ -12,3 +12,6 @@
 - 🚲 [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop)
 
 # Configuration
+- 🛠 [Configuration Overview](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9B%A0-Configuration-Overview)
+- 🎮 [Emulator Input Mapping](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping)
+- 📄 [Logging and Console Output](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%84-Logging-and-Console-Output)
