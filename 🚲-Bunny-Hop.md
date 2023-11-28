@@ -1,4 +1,3 @@
-# Description
 Bunny hop on the spot with the [Acro Bike](https://bulbapedia.bulbagarden.net/wiki/Acro_Bike), useful for Safari Zone and [repel tricking](https://bulbapedia.bulbagarden.net/wiki/Appendix:Repel_trick) as it doesn't count steps.
 
 Start the mode while in the overworld, in any patch of grass/cave, with the Acro Bike registered.
