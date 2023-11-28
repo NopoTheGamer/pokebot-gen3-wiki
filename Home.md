@@ -19,3 +19,4 @@ The wiki is currently a work-in-progress, detailed information will be fleshed o
 - 🛠 [Configuration Overview](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9B%A0-Configuration-Overview)
 - 🎮 [Emulator Input Mapping](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping)
 - 📄 [Logging and Console Output](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%84-Logging-and-Console-Output)
+- 📢 [Discord Integration](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%A2-Discord-Integration)
