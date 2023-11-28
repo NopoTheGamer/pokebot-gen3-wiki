@@ -1,4 +1,3 @@
-# Description
 Manual mode simply disables all automatic bot inputs, allowing you to play the game normally while continuing to track encounters and stats.
 
 # Game Support
