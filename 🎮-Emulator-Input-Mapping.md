@@ -12,34 +12,34 @@ Create this file in your profile folder to override default configuration below.
 ```yml
 # Default mGBA mapping
 gba:
-  Up: 'Up'
-  Down: 'Down'
-  Left: 'Left'
-  Right: 'Right'
-  A: 'x'
-  B: 'z'
-  L: 'a'
-  R: 's'
-  Start: 'Return'
-  Select: 'BackSpace'
+  Up: Up
+  Down: Down
+  Left: Left
+  Right: Right
+  A: x
+  B: z
+  L: a
+  R: s
+  Start: Return
+  Select: BackSpace
 
 # Keys that trigger emulator features
 # You can optionally prefix a key code with 'Ctrl+' so that it only works if the Ctrl modifier key is held at the same time.
 emulator:
   # Increase zoom level by 1
-  zoom_in: 'plus'
+  zoom_in: plus
 
   # Decrease zoom level by 1
-  zoom_out: 'minus'
+  zoom_out: minus
 
   # Toggle between the 'manual' bot mode and the previously selected mode
-  toggle_manual: 'Tab'
+  toggle_manual: Tab
 
   # Toggle video output (disabling video will boost FPS)
-  toggle_video: 'v'
+  toggle_video: v
 
   # Toggle sound output
-  toggle_audio: 'b'
+  toggle_audio: b
 
   # Set emulation speed
   set_speed_1x: '1'
@@ -51,18 +51,18 @@ emulator:
   set_speed_unthrottled: '0'
 
   # Reset emulator core/reboot game
-  reset: 'Ctrl+R'
+  reset: Ctrl+R
 
   # Exit emulator and bot
-  exit: 'Ctrl+Q'
+  exit: Ctrl+Q
 
   # Create a save state
-  save_state: 'Ctrl+S'
+  save_state: Ctrl+S
 
   # Open load save state selection menu
-  load_state: 'Ctrl+L'
+  load_state: Ctrl+L
 
   # -- Ignore this unless you want to do programming on the bot code --
   # Allows you to put the emulator into 'stepping mode', where frames need to be advanced manually using a button, useful for analysing memory values
-  toggle_stepping_mode: 'Ctrl+P'
+  toggle_stepping_mode: Ctrl+P
 ```
