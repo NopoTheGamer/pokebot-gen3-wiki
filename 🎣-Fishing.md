@@ -1,4 +1,3 @@
-# Description
 Start the mode while facing the water, with any fishing rod registered.
 
 # Video Example
