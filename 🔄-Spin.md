@@ -1,4 +1,3 @@
-# Description
 Spins clockwise on a single tile as fast as possible, useful for Safari Zone and [repel tricking](https://bulbapedia.bulbagarden.net/wiki/Appendix:Repel_trick) as it doesn't count steps.
 
 Start the mode while in the overworld, in any patch of grass/water/cave with encounters.
