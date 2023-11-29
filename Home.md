@@ -22,4 +22,6 @@ The wiki is currently a work-in-progress, detailed information will be fleshed o
 - 📄 [Logging and Console Output](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%84-Logging-and-Console-Output)
 - 📢 [Discord Integration](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%A2-Discord-Integration)
 - ❌ [Catch Block List](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%9D%8C-Catch-Block-List)
+- 🥅 [Custom Catch Filters](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%A5%85-Custom-Catch-Filters)
 - 💎 [Cheats](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%8E-Cheats)
+- 🎥 [OBS and  HTTP Server](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%A5-OBS-and-HTTP-Server)
