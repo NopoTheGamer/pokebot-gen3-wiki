@@ -1,5 +1,4 @@
-# Operating Systems
-
+# Supported Operating Systems
 - Windows (**64-bit**)
 - Linux (**64-bit**)
   - Note: only tested and confirmed working on **Ubuntu 23.04, 23.10** and **Debian 12**
@@ -19,6 +18,14 @@ Alternatively, if you'd like to be able to easily pull the latest updates withou
 - **Linux** only: Install the following packages with `apt` or appropriate package manager: `sudo apt install python3-tk libmgba0.10 portaudio19-dev`
 - **Note**: running the bot will **automatically** install required Python packages and download + extract [libmgba](https://github.com/hanzi/libmgba-py) - if you're using Python for any other projects, consider using a [venv](https://docs.python.org/3/library/venv.html) to isolate these packages from your base environment
 
-# Optional
+## Optional
 - [Windows Terminal](https://github.com/microsoft/terminal/releases) - recommended for full 🌈<span style="color:#FF0000">c</span><span style="color:#FF7F00">o</span><span style="color:#FFFF00">l</span><span style="color:#00FF00">o</span><span style="color:#00FFFF">u</span><span style="color:#CF9FFF">r</span>🌈 and  ✨emoji support✨ in the console output
 - [Notepad++](https://notepad-plus-plus.org/) - recommended for syntax highlighting while editing `.yml` config files
+
+# Run the Bot
+- Place some **official** Pokémon .gba ROMs into the `roms/` folder
+- Double click `pokebot.py` or run `python pokebot.py` in a terminal and follow the on-screen steps to create and/or select a profile
+
+The bot ships with the default mGBA input mapping, see [here](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping) for the default mapping, or customise them to your preference.
+
+The bot will pause once a shiny is encountered. You **must** ensure you are able to escape battle **100% of the time**, otherwise the bot will get stuck. Auto-catching and other features will be added in due time.
