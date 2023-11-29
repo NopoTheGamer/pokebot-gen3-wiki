@@ -6,4 +6,4 @@ Default configurations can be overridden by creating config files in a profile f
 
 Configuration files are in `yml` format and are loaded and validated against a schema, at bot launch. Any changes made while the bot is running will need to be reloaded (default mapping is `Ctrl + C`.
 
-The wiki page for for each configuration file will describe all options that are available, examples and defaults will also be shown.
+The wiki page for each configuration file will describe all options that are available, examples and defaults will also be shown.
