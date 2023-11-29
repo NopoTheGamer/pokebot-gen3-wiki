@@ -88,10 +88,10 @@ Each webhook type also supports pinging @users or @roles.
 
 # Defaults
 ```yml
-rich_presence: false # `true`, `false`
-global_webhook_url:
+rich_presence: false
+global_webhook_url: ''
 iv_format: formatted # `basic`, `formatted`
-bot_id: PokéBot # Any string of text
+bot_id: PokéBot
 
 # Shiny Pokémon encounters
 shiny_pokemon_encounter:
