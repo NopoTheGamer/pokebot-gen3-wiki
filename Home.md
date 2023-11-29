@@ -3,7 +3,7 @@ Welcome to the pokebot-gen3 wiki!
 The wiki is currently a work-in-progress, detailed information will be fleshed out over time.
 
 # Getting Started
-- 🔒 [Prerequisites](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%92-Prerequisites)
+- 📌 [Getting Started](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%93%8C-Getting-Started)
 - ▶ [Run the Bot](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%96%B6-Run-the-Bot)
 - 🌍 [Supported Games and Languages](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8C%8D-Supported-Games-and-Languages)
 - 💾 [Import a Save](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BE-Import-a-Save)
