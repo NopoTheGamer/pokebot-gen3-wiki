@@ -1,6 +1,8 @@
 
 This mode will hunt the [Super-ancient Pokémon](https://bulbapedia.bulbagarden.net/wiki/List_of_in-game_event_Pok%C3%A9mon_(Emerald)#Super-ancient_Pok.C3.A9mon). 
 
+# Ruby/Sapphire
+(Not implemented yet) Kyogre and Groudon and Rayquaza will not respawn if fled from, so this mode will simply utilise soft-resets.
 
 # Emerald
 After fleeing from the encounter and reloading the map will cause Kyogre, Groudon or Rayquaza. This mode will use the runaway method as it is generally faster over the long term when compared to soft-resets due to not having to wait for a unique frame.
@@ -16,9 +18,6 @@ After fleeing from the encounter and reloading the map will cause Kyogre, Groudo
 - [Rayquaza](https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)): Place the trainer at the top of [Sky Pillar](https://bulbapedia.bulbagarden.net/wiki/Sky_Pillar), facing Rayquaza
 
 ![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/648ab21a-363e-44b2-a24c-10c41adb3424)
-
-# Ruby/Sapphire
-(Not implemented) Kyogre and Groudon and Rayquaza will not respawn if fled from, so this mode will simply utilise soft-resets.
 
 # Game Support
 |          | 🟥 Ruby | 🔷 Sapphire | 🟢 Emerald |
