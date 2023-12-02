@@ -10,6 +10,7 @@
 - 💼 [Starters](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BC-Starters)
 - 🎣 [Fishing](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%A3-Fishing)
 - 🚲 [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop)
+- 🐉 [Ancient Legendaries (Kyogre, Groudon, Rayquaza)](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%90%89-Ancient-Legendaries-(Kyogre,-Groudon,-Rayquaza))
 
 # Configuration
 - 🛠 [Configuration Overview](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9B%A0-Configuration-Overview)
