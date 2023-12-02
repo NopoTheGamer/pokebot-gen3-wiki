@@ -1,5 +1,6 @@
-
 This mode will hunt the [Super-ancient Pokémon](https://bulbapedia.bulbagarden.net/wiki/List_of_in-game_event_Pok%C3%A9mon_(Emerald)#Super-ancient_Pok.C3.A9mon). 
+
+![](https://raw.githubusercontent.com/40Cakes/pokebot-gen3/main/sprites/pokemon/normal/Kyogre.png) ![](https://raw.githubusercontent.com/40Cakes/pokebot-gen3/main/sprites/pokemon/normal/Groudon.png) ![](https://raw.githubusercontent.com/40Cakes/pokebot-gen3/main/sprites/pokemon/normal/Rayquaza.png)
 
 # Ruby/Sapphire
 (Not implemented yet) Kyogre and Groudon and Rayquaza will not respawn if fled from, so this mode will simply utilise soft-resets.
