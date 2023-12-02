@@ -1,3 +1,5 @@
+Fishing is a way to use a fishing rod to catch wild Pokémon in the water. In fact, some Pokémon can only be caught by using a fishing rod.
+
 Start the mode while facing the water, with any fishing rod registered.
 
 # Video Example
