@@ -29,3 +29,13 @@ Alternatively, if you'd like to be able to easily pull the latest updates withou
 The bot ships with the default mGBA input mapping, see [here](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping) for the default mapping, or customise them to your preference.
 
 The bot will pause once a shiny is encountered. You **must** ensure you are able to escape battle **100% of the time**, otherwise the bot will get stuck. Auto-catching and other features will be added in due time.
+
+# Tips/Tricks
+- Set **TEXT SPEED** to **FAST**
+- Set **BATTLE SCENE** to **OFF**
+- Utilise [repel tricks](https://bulbapedia.bulbagarden.net/wiki/Appendix:Repel_trick) to boost encounter rates of target Pokémon
+- Using modes [Spin](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%94%84-Spin) or [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop) and repels will become effectively infinite + steps won't be counted in Safari Zone
+- Use a lead Pokémon with encounter rate boosting [abilities](https://bulbapedia.bulbagarden.net/wiki/Category:Abilities_that_affect_appearance_of_wild_Pok%C3%A9mon), such as **[Illuminate](https://bulbapedia.bulbagarden.net/wiki/Illuminate_(Ability))**
+- Use a lead Pokémon with a [short cry](https://docs.google.com/spreadsheets/d/1rmtNdlIXiif1Sz20i-9mfhFdoqb1VnAOIntlr3tnPeU)
+- Use a lead Pokémon with a single character nickname
+- Don't use a shiny lead Pokémon (shiny animation takes a few frames at the start of every battle)
