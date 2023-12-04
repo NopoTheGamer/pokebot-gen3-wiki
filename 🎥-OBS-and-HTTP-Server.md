@@ -62,6 +62,8 @@ All HTTP responses are in JSON format.
 
 `GET /party` - returns a detailed list of all Pokémon in the party
 
+`GET /map` - returns data about the map and current tile that the player avatar is standing on
+
 `GET /encounter_log` returns a detailed list of the recent 10 Pokémon encounters
 
 `GET /shiny_log` returns a detailed list of all shiny Pokémon encounters (`shiny_log.json`)
@@ -74,7 +76,20 @@ All HTTP responses are in JSON format.
 
 `GET /emulator` returns information about the emulator core + the current loaded game/profile
 
+`GET /emulator` returns information about the emulator core + the current loaded game/profile
+
+`POST /emulator` allows changing some settings for the emulator. This requires a JSON object as payload, with the 
+following allowed keys: `emulation_speed`, `bot_mode`, `video_enabled`, `audio_enabled`.
+
 `GET /fps` returns a list of emulator FPS (frames per second), in intervals of 1 second, for the previous 60 seconds
+
+`GET /stream_events` is a way to continuously receive updates from the bot in the form of server-sent events. See
+[its own Readme](https://github.com/40Cakes/pokebot-gen3/blob/master/modules/web/Readme.md) for more details.
+
+`GET /stream_video` can be used as a source in HTML `<img/>` tags to receive a live video feed of the bot. It accepts
+an optional query parameter `fps` which can indicate the update rate of the image (default: `30`.) For example:
+`<img src="/stream_video?fps=5"/>` to get a 5 fps stream. A lower number means less impact on bot performance.
+
 
 # Defaults
 ```yml
