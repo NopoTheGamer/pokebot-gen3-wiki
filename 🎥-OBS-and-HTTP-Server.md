@@ -56,7 +56,7 @@ The `http_server` config will enable a Flask HTTP server, which can be used to r
 ### HTTP Endpoints
 All HTTP responses are in JSON format.
 
-`GET /trainer` - returns trainer information such as name, TID, SID, map bank, map ID, X/Y coordinates etc.
+`GET /player` - returns player information such as name, TID, SID, map bank, map ID, X/Y coordinates etc.
 
 `GET /items` - returns all a list of all items in the bag and PC, and their quantities
 
