@@ -3,7 +3,7 @@ Perform actions not possible by a human, such as peeking into eggs to check shin
 RNG manipulation options may be added to the bot in the future, all cheats are disabled by default.
 
 # Filename
-`cheats.yml`
+[`cheats.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/cheats.yml)
 
 # Information
 `starters` - soft reset as soon as possible after receiving the starter Pokémon, this will bypass slow battle/menu animations, saving time
