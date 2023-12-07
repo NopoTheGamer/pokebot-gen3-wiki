@@ -1,9 +1,7 @@
 This file allows you to control logging certain data to files and the output of the terminal window.
 
 # Filename
-`logging.yml`
-
-Create this file in your profile folder to override default configuration below.
+[`logging.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/logging.yml)
 
 # Information
 ## Logging
