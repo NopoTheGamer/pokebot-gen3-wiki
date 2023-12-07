@@ -3,7 +3,7 @@ This configuration can be used to drive stream overlays or web UIs.
 **Note**: These are fairly buggy and WIP + data formats from the HTTP server may change without notice.
 
 # Filename
-`obs.yml`
+[`obs.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/obs.yml)
 
 # Information
 ## OBS
