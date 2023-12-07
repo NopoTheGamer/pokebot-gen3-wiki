@@ -4,7 +4,7 @@ A list of shinies to skip catching, useful if you don't want to fill up your PC 
 - The block list is reloaded by the bot after every shiny encounter, so you can modify this file while the bot is running!
 
 # Filename
-`catch_block.yml`
+[`catch_block.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/catch_block.yml)
 
 # Information
 `block_list` - list of Pokémon to skip catching (one per line), example:
