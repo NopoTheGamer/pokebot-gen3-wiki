@@ -1,5 +1,5 @@
 # Filename
-`customcatchfilters.py`
+[`customcatchfilters.py`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/customcatchfilters.py)
 
 # Information
 All Pokémon encounters are checked by custom catch filters, use this file if you are after Pokémon that match very specific criteria, some examples are provided (most are disabled by default).
