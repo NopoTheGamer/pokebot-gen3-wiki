@@ -3,7 +3,7 @@ With Discord integrations, you can receive shiny notifications, phase stats and 
 For privacy reasons, rich presence and webhooks are all **disabled** by default.
 
 # Filename
-`discord.yml`
+[`discord.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/discord.yml)
 
 # Information
 ## Discord rich presence
