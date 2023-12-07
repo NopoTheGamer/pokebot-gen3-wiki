@@ -3,9 +3,7 @@ This file controls keyboard to GBA button mappings.
 For a full list of available key codes, see [here](https://www.tcl.tk/man/tcl8.4/TkCmd/keysyms.html) or [here](https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html) (column `.keysym`)
 
 # Filename
-`keys.yml`
-
-Create this file in your profile folder to override default configuration below.
+[`keys.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/keys.yml)
 
 # Defaults
 ```yml
