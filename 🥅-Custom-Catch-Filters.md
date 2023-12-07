@@ -1,3 +1,7 @@
+# Filename
+`customcatchfilters.py`
+
+# Information
 All Pokémon encounters are checked by custom catch filters, use this file if you are after Pokémon that match very specific criteria, some examples are provided (most are disabled by default).
 
 These filters are checked *after* the catch block list, so if Wurmple is on your [catch block list](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%9D%8C-Catch-Block-List), the Wurmple evolution example below will still be checked.
@@ -27,6 +31,3 @@ if pokemon.ivs.sum() == (6 * 31):
 ```
 
 - **Note**: you must restart the bot after editing this file for changes to take effect!
-
-# Filename
-`customcatchfilters.py`
