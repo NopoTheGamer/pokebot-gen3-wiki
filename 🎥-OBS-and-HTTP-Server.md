@@ -56,7 +56,9 @@ The `http_server` config will enable a Flask HTTP server, which can be used to r
 ### HTTP Endpoints
 All HTTP responses are in JSON format.
 
-`GET /player` - returns player information such as name, TID, SID, map bank, map ID, X/Y coordinates etc.
+`GET /player` - returns contains rarely-changing player data such as name, TID, SID etc.
+
+`GET /player_avatar` - returns contains the on-map character data such as map bank, map ID, X/Y coordinates
 
 `GET /items` - returns all a list of all items in the bag and PC, and their quantities
 
@@ -76,7 +78,7 @@ All HTTP responses are in JSON format.
 
 `GET /emulator` returns information about the emulator core + the current loaded game/profile
 
-`GET /emulator` returns information about the emulator core + the current loaded game/profile
+`GET /game_state` - returns current game state information
 
 `POST /emulator` allows changing some settings for the emulator. This requires a JSON object as payload, with the 
 following allowed keys: `emulation_speed`, `bot_mode`, `video_enabled`, `audio_enabled`.
