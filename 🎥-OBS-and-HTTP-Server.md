@@ -80,6 +80,8 @@ All HTTP responses are in JSON format.
 
 `GET /game_state` - returns current game state information
 
+`GET /map/<int:map_group>/<int:map_number>` - returns detailed information about a [specific map](https://github.com/40Cakes/pokebot-gen3/blob/main/modules/data/map.py)
+
 `POST /emulator` allows changing some settings for the emulator. This requires a JSON object as payload, with the 
 following allowed keys: `emulation_speed`, `bot_mode`, `video_enabled`, `audio_enabled`.
 
