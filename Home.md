@@ -14,6 +14,7 @@ The wiki is currently a work-in-progress, detailed information will be fleshed o
 - 💼 [Starters](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BC-Starters)
 - 🎣 [Fishing](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%A3-Fishing)
 - 🚲 [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop)
+- 🦅 [Legendary Birds (Articuno, Zapdos, Moltres)](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%A6%85-Legendary-Birds-(Articuno,-Zapdos,-Moltres))
 - 🐉 [Ancient Legendaries (Kyogre, Groudon, Rayquaza)](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%90%89-Ancient-Legendaries-(Kyogre,-Groudon,-Rayquaza))
 
 # Configuration
