@@ -56,6 +56,7 @@ The `http_server` config will enable a Flask HTTP server, which can be used to r
 ### HTTP Endpoints
 The bot has a Flask HTTP server that can serve lots of data about the running emulator the current profile.
 
+The following pages are available if the HTTP server is enabled:
 - Test UI: [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
 - Swagger UI (Documentation/Testing): [http://127.0.0.1:8888/docs/](http://127.0.0.1:8888/docs/)
 
