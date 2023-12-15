@@ -11,6 +11,7 @@
 - 🎣 [Fishing](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%A3-Fishing)
 - 🚲 [Bunny Hop](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%9A%B2-Bunny-Hop)
 - ♻ [Static Soft Resets](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%99%BB-Static-Soft-Resets)
+- 🏯 [Tower Duo Legendaries (Lugia, Ho-Oh)](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8F%AF-Tower-Duo-Legendaries-(Lugia,-Ho%E2%80%90Oh))
 - 🐉 [Ancient Legendaries (Kyogre, Groudon, Rayquaza)](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%90%89-Ancient-Legendaries-(Kyogre,-Groudon,-Rayquaza))
 
 # Configuration
