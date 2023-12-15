@@ -10,7 +10,7 @@ After fleeing from the encounter and reloading the map, Lugia and Ho-Oh will res
 
 ![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/2dc7265e-d427-4e33-8b1f-bce25d255381)
 
-- [Ho-Oh](https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pok%C3%A9mon)): Place the player in front of Ho-Oh on [Navel Rock](https://bulbapedia.bulbagarden.net/wiki/Navel_Rock)
+- [Ho-Oh](https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pok%C3%A9mon)): Place the player in front of Ho-Oh on [Navel Rock](https://bulbapedia.bulbagarden.net/wiki/Navel_Rock)
 
 ![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/fb9300c4-ab72-45eb-99d8-b28407c0f7c7)
 
