@@ -10,15 +10,15 @@ After fleeing from the encounter and reloading the map, Kyogre, Groudon or Rayqu
 
 - [Kyogre](https://bulbapedia.bulbagarden.net/wiki/Kyogre_(Pok%C3%A9mon)): Place the player anywhere on the platform in [Marine Cave](https://bulbapedia.bulbagarden.net/wiki/Marine_Cave), in front of Kyogre
 
-![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/919ac5da-2415-4134-99ba-aaac41f9faea)
+![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/0b5a5c65-e9a9-491f-8f07-0d181933d197)
 
 - [Groudon](https://bulbapedia.bulbagarden.net/wiki/Groudon_(Pok%C3%A9mon)): Place the player anywhere on the platform in [Terra Cave](https://bulbapedia.bulbagarden.net/wiki/Terra_Cave), in front of Groudon
 
-![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/8d1f214c-a038-4fb7-96d9-2e5bcb06b576)
+![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/8a001e3a-9889-4296-a582-b2fb6a6767ff)
 
 - [Rayquaza](https://bulbapedia.bulbagarden.net/wiki/Rayquaza_(Pok%C3%A9mon)): Place the player at the top of [Sky Pillar](https://bulbapedia.bulbagarden.net/wiki/Sky_Pillar), facing Rayquaza
 
-![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/648ab21a-363e-44b2-a24c-10c41adb3424)
+![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/828e5f52-6421-4e51-ac65-17ec21178b7d)
 
 # Game Support
 |          | 🟥 Ruby | 🔷 Sapphire | 🟢 Emerald |
