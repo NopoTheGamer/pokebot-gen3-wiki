@@ -2,7 +2,7 @@ Perform actions not possible by a human, such as peeking into eggs to check shin
 
 RNG manipulation options may be added to the bot in the future, all cheats are disabled by default.
 
-# Filename
+# Config Filename
 [`cheats.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/cheats.yml)
 
 # Information
