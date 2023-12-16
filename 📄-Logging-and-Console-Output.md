@@ -1,6 +1,6 @@
 This file allows you to control logging certain data to files and the output of the terminal window.
 
-# Filename
+# Config Filename
 [`logging.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/logging.yml)
 
 # Information
