@@ -10,7 +10,7 @@ The bot can automatically battle Pokémon that don't meet catch criteria.
 `pickup_threshold` - number of Pokémon in the party that should have an item before the bot tries to take items from them. If you have fewer Pokémon with Pickup in your party than this number, the bot will use that number instead.
 
 `pickup_check_frequency` - wait interval encounters to get before checking for pickup items.
-- If `pickup` is enabled in [💎 Cheats](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%8E-Cheats), this threshold is ignored.
+- If `faster_pickup` is enabled in [💎 Cheats](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%8E-Cheats), this threshold is ignored.
 
 ## Battling
 `battle` - enable battling opponents
