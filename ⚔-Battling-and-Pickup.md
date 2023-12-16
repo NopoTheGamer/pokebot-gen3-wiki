@@ -1,6 +1,6 @@
 The bot can automatically battle Pokémon that don't meet catch criteria.
 
-# Filename
+# Config Filename
 [`battle.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/battle.yml)
 
 # Information
