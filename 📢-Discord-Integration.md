@@ -86,6 +86,12 @@ Each webhook type also supports pinging @users or @roles.
 
 ![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/9a52da68-5e3b-4f59-b222-18c4ed793c59)
 
+***
+
+`pickup` - Pickup notification + summary of items every `interval` new items
+
+![image](https://github.com/40Cakes/pokebot-gen3/assets/16377135/134b2fff-2677-48af-bfdc-adf1b0e4f265)
+
 # Defaults
 ```yml
 rich_presence: false
@@ -143,6 +149,14 @@ anti_shiny_pokemon_encounter:
 # Custom filter Pokémon encountered
 custom_filter_pokemon_encounter:
   enable: false
+  ping_mode:
+  ping_id:
+  #webhook_url:
+
+# Pickup new items notification
+pickup:
+  enable: false
+  interval: 10
   ping_mode:
   ping_id:
   #webhook_url:
