@@ -24,8 +24,8 @@ The bot can automatically battle Pokémon that don't meet catch criteria.
 
 `new_move` - how to behave if a Pokémon attempts to learn a new move.
 - `stop` - go into manual mode
-- `cancel`, - stop the Pokémon from learning a new move
-- `learn_best`- calculate the weakest move from the Pokémon's current moveset. If the new move is better, replaces that move with the new move. If the Pokémon knows more than one move of a certain type, the bot will attempt to delete the weakest move with redundant typing in order to maximize coverage
+- `cancel` - stop the Pokémon from learning a new move
+- `learn_best`- calculate the weakest move from the Pokémon's current move set. If the new move is better, replaces that move with the new move. If the Pokémon knows more than one move of a certain type, the bot will attempt to delete the weakest move with redundant typing in order to maximize coverage
 
 `stop_evolution` - prevent Pokémon from evolving
 
