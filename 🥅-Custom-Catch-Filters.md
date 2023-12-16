@@ -1,4 +1,4 @@
-# Filename
+# Config Filename
 [`customcatchfilters.py`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/customcatchfilters.py)
 
 # Information
