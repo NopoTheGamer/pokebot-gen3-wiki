@@ -3,7 +3,7 @@ A list of shinies to skip catching, useful if you don't want to fill up your PC 
 - **Note**: phase stats will still be reset after encountering a shiny on the block list.
 - The block list is reloaded by the bot after every shiny encounter, so you can modify this file while the bot is running!
 
-# Filename
+# Config Filename
 [`catch_block.yml`](https://github.com/40Cakes/pokebot-gen3/blob/main/profiles/catch_block.yml)
 
 # Information
