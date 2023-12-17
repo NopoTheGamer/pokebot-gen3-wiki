@@ -6,7 +6,11 @@
 # Download the Bot
 To download the latest bot from GitHub, go to the top of the page > click the green **Code** button > **Download ZIP**.
 
-Alternatively, if you'd like to be able to easily pull the latest updates without re-downloading the entire ZIP:
+## Stable Releases
+The bot has an auto-updater that will check for new **stable [releases](https://github.com/40Cakes/pokebot-gen3/releases)**, once a day.
+
+## Dev Releases
+Alternatively, if you'd like to be able to easily pull the latest **dev releases** (may contain some bugs), use git:
 - Install [GitHub Desktop](https://desktop.github.com/) (you don't need an account)
 - Click **Clone a repository from the Internet...**
 - Use repository URL `https://github.com/40Cakes/pokebot-gen3.git` and choose a save location on your PC
