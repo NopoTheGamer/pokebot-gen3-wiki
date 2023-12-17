@@ -11,8 +11,8 @@ For privacy reasons, rich presence and webhooks are all **disabled** by default.
 
 ## Discord webhooks
 `global_webhook_url` - global Discord webhook URL, default webhook for all Discord webhooks unless specified otherwise
+- Generate a new webhook: **Edit Channel** > **Integrations** > **Webhooks** > **New Webhook** > **Give it any name such as `PokéBot` and a picture** > **Copy Webhook URL**
 - ⚠ **Warning**: this webhook is considered sensitive! If you leak your webhook, anyone will be able to post in your channel
-- **Edit Channel** > **Integrations** > **Webhooks** > **New Webhook** > **Copy Webhook URL** to generate a new webhook
 
 `iv_format` - changes IV formatting displayed in messages, set to `basic` or `formatted`
 - `basic`: <br>`HP: 31 | ATK: 31 | DEF: 31  | SPA: 31  | SPD: 31  | SPE: 31`
