@@ -1,0 +1,1 @@
+For help and support, reach out in Discord [#bot-support-libmgba❔](https://discord.com/channels/1057088810950860850/1139190426834833528) or [raise an issue](https://github.com/40Cakes/pokebot-gen3/issues) on this repository.
