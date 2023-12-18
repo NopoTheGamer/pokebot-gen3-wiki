@@ -32,7 +32,7 @@ Alternatively, if you'd like to be able to easily pull the latest dev releases (
 - Place some **official** Pokémon .gba ROMs into the `roms/` folder
 - Double click `pokebot.py` or run `python pokebot.py` in a terminal and follow the on-screen steps to create and/or select a profile
 
-Reach out in Discord [#bot-support-libmgba❔](https://discord.com/channels/1057088810950860850/1139190426834833528) for help and support, or [raise an issue](https://github.com/40Cakes/pokebot-gen3/issues) on this repository.
+For help and support, reach out in Discord [#bot-support-libmgba❔](https://discord.com/channels/1057088810950860850/1139190426834833528) or [raise an issue](https://github.com/40Cakes/pokebot-gen3/issues) on this repository.
 
 The bot ships with the default mGBA input mapping, see [here](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping) for the default mapping, or customise them to your preference.
 
