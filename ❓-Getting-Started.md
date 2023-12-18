@@ -4,13 +4,15 @@
   - Note: only tested and confirmed working on **Ubuntu 23.04, 23.10** and **Debian 12**
 
 # Download the Bot
-To download the latest bot from GitHub, go to the top of the page > click the green **Code** button > **Download ZIP**.
-
 ## Stable Releases
-The bot has an auto-updater that will check for new **stable [releases](https://github.com/40Cakes/pokebot-gen3/releases)**, once a day.
+Visit the [releases](https://github.com/40Cakes/pokebot-gen3/releases) page for the latest stable releases.
+
+The bot has an auto-updater that will check for new stable releases, once a day.
 
 ## Dev Releases
-Alternatively, if you'd like to be able to easily pull the latest **dev releases** (may contain some bugs), use git:
+To download the latest dev releases, go to the top of the repo page > click the green **Code** button > **Download ZIP**.
+
+Alternatively, if you'd like to be able to easily pull the latest dev releases (may contain some bugs), use git:
 - Install [GitHub Desktop](https://desktop.github.com/) (you don't need an account)
 - Click **Clone a repository from the Internet...**
 - Use repository URL `https://github.com/40Cakes/pokebot-gen3.git` and choose a save location on your PC
