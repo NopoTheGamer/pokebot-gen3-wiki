@@ -5,7 +5,7 @@
 
 # Download the Bot
 ## Stable Releases
-Visit the [releases](https://github.com/40Cakes/pokebot-gen3/releases) page for the latest stable releases.
+Visit the [releases](https://github.com/40Cakes/pokebot-gen3/releases) page for the latest stable releases, download the **pokebot-vX.X.X.zip** file.
 
 The bot has an auto-updater that will check for new stable releases, once a day.
 
