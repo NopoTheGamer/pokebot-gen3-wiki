@@ -12,7 +12,7 @@ The bot has an auto-updater that will check for new stable releases, once a day.
 ## Dev Releases
 To download the latest dev releases, go to the top of the repo page > click the green **Code** button > **Download ZIP**.
 
-Alternatively, if you'd like to be able to easily pull the latest dev releases (may contain some bugs), use git:
+Alternatively, if you'd like to be able to easily pull the latest dev releases, use git:
 - Install [GitHub Desktop](https://desktop.github.com/) (you don't need an account)
 - Click **Clone a repository from the Internet...**
 - Use repository URL `https://github.com/40Cakes/pokebot-gen3.git` and choose a save location on your PC
