@@ -1,7 +1,6 @@
 # Getting Started
 - ❓ [Getting Started](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%9D%93-Getting-Started)
 - 🌍 [Supported Games and Languages](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8C%8D-Supported-Games-and-Languages)
-- 💾 [Import a Save](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%92%BE-Import-a-Save)
 - ✨ [Stream FAQ](https://github.com/40Cakes/pokebot-gen3/wiki/%E2%9C%A8-Stream-FAQ)
 
 # Bot Modes
