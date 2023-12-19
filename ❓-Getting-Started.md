@@ -37,6 +37,14 @@ For help and support, reach out in Discord [#bot-support-libmgba❔](https://dis
 The bot ships with the default mGBA input mapping, see [here](https://github.com/40Cakes/pokebot-gen3/wiki/%F0%9F%8E%AE-Emulator-Input-Mapping) for the default mapping, or customise them to your preference.
 
 The bot will pause once a shiny is encountered. You **must** ensure you are able to escape battle **100% of the time**, otherwise the bot will get stuck. Auto-catching and other features will be added in due time.
+If you have a save from mGBA that you'd like to import and use with the bot, then you will need to import the save state.
+
+# Import a Save
+- In mGBA (standalone), run a game and load into the save file
+- **File** > **Save State File...** > **Save**
+- Double click `pokebot.py` or run `python pokebot.py` in a terminal > type a profile **name** > click **Load Existing Save**
+- Open the save state file you just saved
+- A new bot profile will be created in the `profiles/` folder, and launched
 
 # Tips/Tricks
 - Set **TEXT SPEED** to **FAST**
