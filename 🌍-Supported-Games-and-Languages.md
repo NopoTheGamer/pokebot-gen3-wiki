@@ -4,7 +4,7 @@ Variations of games, languages and revisions may have different memory offsets, 
 - 🟨 Supported (not tested)
 - ❌ Not supported
 
-It is highly recommended to use English ROMs for now as English is typically prioritised during development, however the goal is to eventually support all language variations, please be patient if you find your language is not supported.
+It is highly recommended to use English ROMs for now as English is typically prioritised during development, however the goal is to eventually support all languages, please be patient if you find your language is not supported.
 
 ROM hacks will likely not work, and are ❌ **not supported** or planned to be supported!
 
