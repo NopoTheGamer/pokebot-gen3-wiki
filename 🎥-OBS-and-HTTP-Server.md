@@ -58,7 +58,7 @@ The bot has a Flask HTTP server that can serve lots of data about the running em
 
 The following pages are available if the HTTP server is enabled:
 - Test UI: [http://127.0.0.1:8888/](http://127.0.0.1:8888/)
-- Swagger UI (Documentation/Testing): [http://127.0.0.1:8888/docs/](http://127.0.0.1:8888/docs/)
+- Swagger UI (API Documentation): [http://127.0.0.1:8888/docs/](http://127.0.0.1:8888/docs/)
 
 # Defaults
 ```yml
